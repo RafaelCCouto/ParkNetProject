@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\repositories\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\repositories\\parkinglotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\repositories\\parkinglotrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\parkinglot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\parknetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\parknetdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\parkingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\parkingfloor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\subscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|c:\\programa re_start - curso developer\\m\u00F3dulo 2 - object oriented programming (oop)\\parknetrepositorygit\\parknet\\parknet.app\\data\\entities\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF9F34A2-5510-499F-8BA6-A0DB0A0B7677}|ParkNet.App\\ParkNet.App.csproj|solutionrelative:parknet.app\\data\\entities\\parkingspot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ParkingLotRepository.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\ParkingLotRepository.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Repositories\\ParkingLotRepository.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\ParkingLotRepository.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Repositories\\ParkingLotRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:37:43.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:29:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\Repository.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:27:37.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\UserService.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Repositories\\UserService.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\UserService.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Repositories\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:38:43.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T22:26:28.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ParkingLot.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\ParkingLot.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\ParkingLot.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\ParkingLot.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\ParkingLot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:43:40.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\User.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\User.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:43:20.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ParkNetDbContext.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\ParkNetDbContext.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\ParkNetDbContext.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\ParkNetDbContext.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\ParkNetDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:18:56.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Usings.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Usings.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Usings.cs",
+              "RelativeToolTip": "ParkNet.App\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:51:19.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ParkingFloor.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\ParkingFloor.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\ParkingFloor.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\ParkingFloor.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\ParkingFloor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:52:42.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\Vehicle.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\Vehicle.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\Vehicle.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:44:22.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\Transaction.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:44:42.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subscription.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\Subscription.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\Subscription.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\Subscription.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\Subscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T22:43:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ParkingSpot.cs",
+              "DocumentMoniker": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\ParkingSpot.cs",
+              "RelativeDocumentMoniker": "ParkNet.App\\Data\\Entities\\ParkingSpot.cs",
+              "ToolTip": "C:\\PROGRAMA RE_Start - Curso Developer\\M\u00F3dulo 2 - Object Oriented Programming (OOP)\\ParkNetRepositoryGit\\ParkNet\\ParkNet.App\\Data\\Entities\\ParkingSpot.cs",
+              "RelativeToolTip": "ParkNet.App\\Data\\Entities\\ParkingSpot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:43:55.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
